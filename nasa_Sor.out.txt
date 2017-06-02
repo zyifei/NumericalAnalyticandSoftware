@@ -1,0 +1,4 @@
+Stopping reason          Max num of iterations    No. of iterations        Machine epsilon          X seq tolerance          
+Max Iterations reached   100                      100                      1e-16                    1e-16                    
+x =  [[  0.32836107  49.69798849   1.48578939 ...,  25.02170439   0.43772495
+    1.11067394]]
